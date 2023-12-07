@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Микрозаймы</string>
+    <string name="rating_filter">Лучший рейтинг</string>
+    <string name="rate_filter">Низкая ставка</string>
+    <string name="sum_filter">Большая сумма займа</string>
+    <string name="term_filter">На длинный срок</string>
+    <string name="get_money">Получить деньги</string>
+    <string name="rate">Ставка</string>
+    <string name="rate_val">от %1$s \%%</string>
+    <string name="term_val">%1$s—%2$s</string>
+    <string name="sum_val">до %1$s</string>
+    <string name="term_value">Срок (дни)</string>
+    <string name="sum">Сумма</string>
+    <string name="microlaons">Микрозаймы</string>
+    <string name="take_country">Выберите страну</string>
+    <string name="continue_button">Продолжить</string>
+    <string name="info_text">Для большей гарантии одобрения, оставьте несколько заявок</string>
+</resources>

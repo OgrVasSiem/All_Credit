@@ -1,0 +1,89 @@
+{
+  "countries": [
+    {
+      "code": "ru",
+      "flagUrl": "https://example.com/flags/ru.png"
+    },
+    {
+      "code": "kz",
+      "flagUrl": "https://example.com/flags/kz.png"
+    }
+  ],
+  "stores": {
+    "HuaweiAppGallery": {
+      "ru": [
+        {
+          "currency": "RUB",
+          "icon": "https://cpa-networks.hb.ru-msk.vkcs.cloud/icons/ru/microfinancing-organizations/svoi_ludi.jpg",
+          "title": "Rustore",
+          "rating": 5.0,
+          "rateFrom": 0.8,
+          "termFrom": 5,
+          "termTo": 30,
+          "sumTo": 30000,
+          "url": "https://lnkrdrct.com/go/sa0shsxsir?subid1=microloans_rustore&subid2=ru&subid3=rustore&subid4=microloans"
+        }
+      ]
+    },
+    "RuStore": {
+      "ru": [
+        {
+          "currency": "RUB",
+          "icon": "https://cpa-networks.hb.ru-msk.vkcs.cloud/icons/ru/microfinancing-organizations/svoi_ludi.jpg",
+          "title": "Rustore",
+          "rating": 5.0,
+          "rateFrom": 0.8,
+          "termFrom": 5,
+          "termTo": 30,
+          "sumTo": 30000,
+          "url": "https://lnkrdrct.com/go/sa0shsxsir?subid1=microloans_rustore&subid2=ru&subid3=rustore&subid4=microloans"
+        }
+      ]
+    },
+    "galaxy_store": {
+      "ru": [
+        {
+          "currency": "RUB",
+          "icon": "https://cpa-networks.hb.ru-msk.vkcs.cloud/icons/ru/microfinancing-organizations/svoi_ludi.jpg",
+          "title": "Rustore",
+          "rating": 5.0,
+          "rateFrom": 0.8,
+          "termFrom": 5,
+          "termTo": 30,
+          "sumTo": 30000,
+          "url": "https://lnkrdrct.com/go/sa0shsxsir?subid1=microloans_rustore&subid2=ru&subid3=rustore&subid4=microloans"
+        }
+      ]
+    },
+    "getapps": {
+      "ru": [
+        {
+          "currency": "RUB",
+          "icon": "https://cpa-networks.hb.ru-msk.vkcs.cloud/icons/ru/microfinancing-organizations/svoi_ludi.jpg",
+          "title": "Rustore",
+          "rating": 5.0,
+          "rateFrom": 0.8,
+          "termFrom": 5,
+          "termTo": 30,
+          "sumTo": 30000,
+          "url": "https://lnkrdrct.com/go/sa0shsxsir?subid1=microloans_rustore&subid2=ru&subid3=rustore&subid4=microloans"
+        }
+      ]
+    },
+    "other": {
+      "ru": [
+        {
+          "currency": "RUB",
+          "icon": "https://cpa-networks.hb.ru-msk.vkcs.cloud/icons/ru/microfinancing-organizations/svoi_ludi.jpg",
+          "title": "Rustore",
+          "rating": 5.0,
+          "rateFrom": 0.8,
+          "termFrom": 5,
+          "termTo": 30,
+          "sumTo": 30000,
+          "url": "https://lnkrdrct.com/go/sa0shsxsir?subid1=microloans_rustore&subid2=ru&subid3=rustore&subid4=microloans"
+        }
+      ]
+    }
+  }
+}
